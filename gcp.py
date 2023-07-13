@@ -180,7 +180,10 @@ print("""Auto Update Ip to duckdns was done...
       Server =  modsbots.duckdns.org
       Port = 6000
       UserName = modsbots
+      
       Use Private Key to access server
+
+      Download private key ==> https://raw.githubusercontent.com/modbots/key_pair/main/google_compute_engine
       
       """)
 

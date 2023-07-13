@@ -114,7 +114,7 @@ download_key()
 res = run_first()
 re = res.decode()
 words, ss = re.split('=no ')
-print(ss)
+#print(ss)
 
 try:
     ips, ssss = ss.split(' -- DEVSHELL_PROJECT_ID')
